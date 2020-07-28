@@ -1,4 +1,4 @@
-### Hi there 👋
+### ~~绝 活 海~~ 技能树 ✨
 
 <!--
 **EggUncle/EggUncle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+简单整理了一些接触过或者折腾过的东西，顺序不分先后，有的也许没那么熟悉，先支棱起来吧嗨呀。
+
+![](https://github.com/EggUncle/Demo/blob/master/markdownimg/%E6%8A%80%E8%83%BD%E6%A0%91.png?raw=true)
