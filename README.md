@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=EggUncle&show_icons=true)
 
+[技能树/知识图谱](https://github.com/EggUncle/EggUncle/blob/master/src/README.md)
