@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=EggUncle&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=EggUncle&show_icons=true&include_all_commits=true)
 
 [技能树/知识图谱](https://github.com/EggUncle/EggUncle/blob/master/src/README.md)
